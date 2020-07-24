@@ -9,7 +9,7 @@
 
 
 
-### Day 1: July 24rd, 2020
+### Day 1: July 24th, 2020
 
 **Today's Progress**: Finsihed the Basic Javascript section of Freecodecamp.
 
