@@ -16,3 +16,11 @@
 **Thoughts:** Went pretty well. Got stuck slighly a couple of times.
 **Link to work:** 
 
+
+
+### Day 2: July 25th, 2020
+
+**Today's Progress**: Finsihed the ES6 Javascript section of Freecodecamp.
+
+**Thoughts:** Went pretty well. 
+**Link to work:** 
