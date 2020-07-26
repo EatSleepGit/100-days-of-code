@@ -24,3 +24,11 @@
 
 **Thoughts:** Went pretty well. 
 **Link to work:** 
+
+
+### Day 3: July 26th, 2020
+
+**Today's Progress**: Finsihed the Regular Expressions section of Freecodecamp.
+
+**Thoughts:** Went pretty well. 
+**Link to work:** 
