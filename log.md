@@ -32,3 +32,12 @@
 
 **Thoughts:** Went pretty well. 
 **Link to work:** 
+
+
+### Day 4: July 27th, 2020
+
+**Today's Progress**: Finsihed the Debugging AND the Basic Datastructures sections of Freecodecamp.
+
+**Thoughts:** 
+
+**Link to work
