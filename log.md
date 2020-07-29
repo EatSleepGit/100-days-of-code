@@ -40,4 +40,14 @@
 
 **Thoughts:** 
 
+**Link to work**
+
+
+
+### Day 5: July 28th, 2020
+
+**Today's Progress**: Did Day 1 of javascript30 by Wes Bos (JS Drum Kit) and did the Introduction to github on Github Learning Lab.
+
+**Thoughts:** 
+
 **Link to work
