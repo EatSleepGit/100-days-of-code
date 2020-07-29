@@ -51,3 +51,12 @@
 **Thoughts:** 
 
 **Link to work
+
+
+### Day 6: July 29th, 2020
+
+**Today's Progress**: Did Day 2 of javascript30 by Wes Bos (JS Clock) and spent a few hours on the FCC Tribute Page.
+
+**Thoughts:** 
+
+**Link to work
