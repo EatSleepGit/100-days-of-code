@@ -60,3 +60,12 @@
 **Thoughts:** 
 
 **Link to work
+
+### Day 7: July 30th, 2020
+
+**Today's Progress**: Did Day 3 of javascript30 by Wes Bos (CSS Variables) and spent a few hours on the FCC Tribute Page. Also watched a frontend tutorial 2h40min.
+
+**Thoughts:** 
+
+**Link to work
+
