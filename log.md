@@ -69,3 +69,14 @@
 
 **Link to work
 
+
+
+### Day 8: July 31st, 2020
+
+**Today's Progress**: Worked 2.5 hours plus tutorial on JS snake game by DevSimplified? Basics done.
+
+**Thoughts:** 
+
+**Link to work
+
+
