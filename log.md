@@ -80,3 +80,11 @@
 **Link to work
 
 
+### Day 9: August 1st, 2020
+
+**Today's Progress**: Worked around 3 hours on FCC Responsive Web Design projects. Also did a few challenges on FCC.
+
+**Thoughts:** 
+
+**Link to work
+
