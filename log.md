@@ -88,3 +88,12 @@
 
 **Link to work
 
+
+### Day 10: August 2nd, 2020
+
+**Today's Progress**: Worked around 2 hours on FCC Responsive Web Design projects. And made a CSS-art Coffee Cup, a la Brad Hussey.
+
+**Thoughts:** 
+
+**Link to work
+
